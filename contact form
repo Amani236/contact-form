@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="contact.css" />
+        <title>
+            Digital Land
+        </title>
+        <link rel="icon" type="images/x-icon" href="https://e7.pngegg.com/pngimages/272/629/png-clipart-online-shopping-e-commerce-graphy-icon-blue-purchase-button-blue-angle.png" />
+    </head>
+    <body>
+        <h1>The contact form</h1>
+        <a href="mailto:nowhere@mozilla.org">Send email to nowhere</a>
+        <div>
+            <h3>You can call us in:</h3>
+            <a href="tel:+49.157.0156">+49 157 0156</a>
+            <a href="tel:+1(800)555-0123">(800) 555-0123</a>
+        </div>
+        
+        <p>Learn more <a href="/file:///C:/Users/dell/Desktop/project%20html">about our products</a>.</p>
+
+
+
+
+
+    </body>
+</html>
